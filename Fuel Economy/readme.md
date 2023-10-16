@@ -1,7 +1,11 @@
-# Fifth generation Honda Civic VX - Hatchback
+# Fifth generation Honda Civic
 https://en.wikipedia.org/wiki/Honda_Civic_(fifth_generation)#Hatchback
 - https://en.wikipedia.org/wiki/Honda_Civic_(fifth_generation)
 
+## CX
+"""CX: The economical CX was the base model equipped with all-manual features, and power brakes. In the U.S., it came with the 8-valve 70 hp (52 kW) 1.5L D15B8 engine and a 5-speed manual transmission. With 42/48 miles per gallon (mpg) (city/hwy) [revised to 2008 EPA rating: 35/43 mpg city/hwy[3]] or 40/47 mpg (city/hwy) [revised to 2008 EPA rating: 33/42 mpg city/hwy[4]], the CX was the second most fuel-efficient Civic model of the fifth generation, after the VX. CX models in Canada came with the same 16-valve 102 hp 1.5L D15B7 engine as in the DX -model, but could also be ordered with a 4-speed automatic transmission which also came with power steering. The 1995 CDM CX models (sometimes colloquially referred to as the "CX-Plus") added the rear wiper/washer as a standard feature, and could be ordered with side mouldings and manual passenger-side mirror."""
+
+## VX - Hatchback
 Quote:
 - """Introduced in September 1991 for the 1992 model year, the redesigned Civic featured increased dimensions, as well as more aerodynamic styling. The wagon variant was now only available in the Japanese market where the previous generation wagon was carried over until 1995. The efficiency of the previous HF model was replaced by the VX hatchback which, with an EPA rating of 48 / 55 miles per US gallon (4.9 / 4.3 L/100 km; 58 / 66 mpg‑imp), was Honda's most fuel efficient model sold at the time."""
 - """VX: During the late 1980s and the early 1990s, as a result of high gasoline prices and the consumer demand for relief, automobile companies, particularly Toyota and Honda competed to see who could field the most fuel efficient production automobile. The Civic VX was Honda's entry for 1992.
